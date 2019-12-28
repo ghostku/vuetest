@@ -1,2 +1,0 @@
-# vuetest
-Created with CodeSandbox
